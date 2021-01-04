@@ -7,4 +7,4 @@ And this is the story we are trying to live by. We imagine a tool maker, calling
 HeyDavid is created to remind us that even with simple but sufficiently effective tools, we can overcome adversity. 
 
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page).
