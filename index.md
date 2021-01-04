@@ -5,3 +5,6 @@ Hey David is created from the inspirational story or David and Goliath. Whereas 
 And this is the story we are trying to live by. We imagine a tool maker, calling for David, giving him the simple tools he needed to defeat Goliath.
 
 HeyDavid is created to remind us that even with simple but sufficiently effective tools, we can overcome adversity. 
+
+
+[Link to another page](./another-page.html).
