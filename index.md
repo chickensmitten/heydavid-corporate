@@ -16,4 +16,4 @@ For more information, drop an email to hello@heyban.io
 
 ## About HeyDavid
 
-`HeyDavid is a project brand under Long Lever PLT (202004003573 LLP0026358-LGN).`
+<sub><sup>HeyDavid is a project brand under Long Lever PLT (202004003573 LLP0026358-LGN).</sub></sup>
