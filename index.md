@@ -6,5 +6,10 @@ And this is the story we are trying to live by. We imagine a tool maker, calling
 
 HeyDavid is created to remind us that even with simple but sufficiently effective tools, we can overcome adversity. 
 
+## What we do?
 
-[Link to another page](./another-page).
+We provide website development services, software development consultancy and reselling software and hardware for the information technology industry.
+
+## Contact Us
+
+For more information, drop an email to hello@heyban.io
