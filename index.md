@@ -15,4 +15,4 @@ We provide website development services, software development consultancy and re
 For more information, drop an email to hello@heyban.io
 
 
-<sub><sup>HeyDavid is a project brand under Long Lever PLT (202004003573 LLP0026358-LGN).</sup></sub>
+<sup>HeyDavid is a project brand under Long Lever PLT (202004003573 LLP0026358-LGN).</sup>
